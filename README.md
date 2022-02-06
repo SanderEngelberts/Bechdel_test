@@ -14,8 +14,7 @@ Below the paths to code- and other files in the repository can be found together
 | [Bechdel_test](https://github.com/SanderEngelberts/Bechdel_test) | Main repository
 | &ensp;&ensp;&boxvr;&nbsp; [LICENSE](https://github.com/SanderEngelberts/Bechdel_test/blob/main/LICENSE) | GPL-3.0 License with copyright to autors
 | &ensp;&ensp;&boxvr;&nbsp; [README.md](https://github.com/SanderEngelberts/Bechdel_test/blob/main/README.md) | This ReadMe giving information about the repository
-| &ensp;&ensp;&boxvr;&nbsp; 
-[DM_research_project.pdf](https://github.com/SanderEngelberts/Bechdel_test/blob/main/DM_research_project.pdf) | The report corresponding to this research
+| &ensp;&ensp;&boxvr;&nbsp; [DM_research_project.pdf](https://github.com/SanderEngelberts/Bechdel_test/blob/main/DM_research_project.pdf) | The report corresponding to this research
 | &ensp;&ensp;&boxvr;&nbsp; [DM_research_project_Bechdel_test_final.ipynb](https://github.com/SanderEngelberts/Bechdel_test/blob/main/DM_research_project_Bechdel_test_final.ipynb) | The final code created for performing this research
 | &ensp;&ensp;&boxvr;&nbsp; [getAllMovies.json](https://github.com/SanderEngelberts/Bechdel_test/blob/main/getAllMovies.json) | The original data retrieved in January 2022 from the user-compiled dataset of 9401 movies at [bechdeltest.com](https://bechdeltest.com)
 | &ensp;&ensp;&boxvr;&nbsp; [Movies_Bechdel_complete.zip](https://github.com/SanderEngelberts/Bechdel_test/blob/main/Movies_Bechdel_complete.zip) | Zip file containing a similarly named .csv document with the data from the file [getAllMovies.json](https://github.com/SanderEngelberts/Bechdel_test/blob/main/getAllMovies.json) and scraped synopses and description data from the [IMDb website](www.imdb.com)
